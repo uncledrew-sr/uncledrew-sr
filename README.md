@@ -11,7 +11,7 @@ Computer Science @ Jeju National University
     * Implementing AI models and exploring intelligent system architectures.
  
 ### 🏆 Honors & Awards
-| Date | Title / Event | Award | Field | Type |
+| Date | Title / Event | Achievement | Field | Type |
 | :--- | :--- | :--- | :--- | :--- |
 | `2026.02.26` | ICAIIC 2026 | 📄 Poster Presentation | NLP, T5 Modeling | Conference | 
 | `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Competition | 
