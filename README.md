@@ -12,10 +12,10 @@ Computer Science @ Jeju National University
 * Undergraduate Researcher @ Intelligent Computing Lab `2025.03 - 2026.02`
     * Conducted research on NLP and LLM architectures.
 * Technical Specialist (Information Systems Operation) @ Republic of Korea Army `2023.10 - 2025.03`
-    * Served as an Information System Operator (MOS 175.103) at the Battle Training Command.
-    * Simulation Operations: Managed operational sustainability and intelligence simulation systems for high-level command post exercises.
     * Squad Leader `2024.06 - 2024.12`
- 
+    * Served as an Information System Operator (MOS 175.103) at the Battle Training Command.
+    * Operated tactical & intelligence simulation systems for high-level command post exercises.
+
 # 🏆 Honors & Awards
 | Date | Title / Event | Achievement | Field | Type |
 | :--- | :--- | :--- | :--- | :--- |
