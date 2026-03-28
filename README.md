@@ -10,7 +10,7 @@ Computer Science @ Jeju National University
 ### 🏆 Honors & Awards
 | Date | Title / Event | Award | Field | Type |
 | :--- | :--- | :---: | :---: | :---: |
-| `2026.02` | ICAIIC 2026 | Poster Presentation | NLP, T5 Modeling | Conference | 
+| `2026.02.26` | ICAIIC 2026 | Poster Presentation | NLP, T5 Modeling | Conference | 
 | `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Award | NLP, T5 Modeling | Competition | 
 | `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | Data Science | Conference | 
 | `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Competition |
