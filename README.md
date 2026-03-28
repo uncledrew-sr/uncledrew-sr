@@ -7,8 +7,7 @@ Computer Science @ Jeju National University
 * Executive Organizer @ LIKELION JNU 14th `2026.02 - Present`
     * Managing tech seminars and hackathons for the Jeju National University chapter.
 * Undergraduate Researcher @ Intelligent Computing Lab `2025.03 - 2026.02`
-    * Researching on NLP with T5 models
-    * Implementing AI models and exploring intelligent system architectures.
+    * Conducted research on NLP and LLM architectures.
  
 ### 🏆 Honors & Awards
 | Date | Title / Event | Achievement | Field | Type |
