@@ -28,3 +28,6 @@ Computer Science @ Jeju National University
 
 ### 🐋 DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+### Blog
+<a href="https://https://uncledrew.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=ghost&logoColor=black"></a>&nbsp;
