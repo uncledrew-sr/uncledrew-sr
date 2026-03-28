@@ -13,10 +13,10 @@ Computer Science @ Jeju National University
 ### 🏆 Honors & Awards
 | Date | Title / Event | Achievement | Field | Type |
 | :--- | :--- | :--- | :--- | :--- |
-| `2026.02.26` | ICAIIC 2026 | 📄 Poster Presentation | NLP, T5 Modeling | Conference | 
-| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Competition | 
-| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conference | 
-| `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Competition |
+| `2026.02.26` | ICAIIC 2026 | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
+| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
+| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conf. | 
+| `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
 ### 🖥 Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
