@@ -1,11 +1,19 @@
 Computer Science @ Jeju National University
 
 ### 💼 Experience
-* Executive Organizer @ LIKELION JNU 14th (2026.02 - Present)
+* Executive Organizer @ LIKELION JNU 14th `2026.02 - Present`
     * Managing tech seminars and hackathons for the Jeju National University chapter.
-* Undergraduate Researcher @ Intelligent Computing Lab (2025.03 - 2026.02)
+* Undergraduate Researcher @ Intelligent Computing Lab `2025.03 - 2026.02`
     * Researching on NLP with T5 models
     * Implementing AI models and exploring intelligent system architectures.
+ 
+### 🏆 Honors & Awards
+| Date | Title / Event | Award | Field | Type |
+| :--- | :--- | :---: | :---: | :---: |
+| `2026.02` | ICAIIC 2026 | Poster Presentation | NLP, T5 Modeling | Conference | 
+| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Award | NLP, T5 Modeling | Competition | 
+| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | Data Science | Conference | 
+| `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Competition |
 
 ### ✉️ Contact Me
 <a href="mailto:bonggutravel@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="mailto:fredb@stu.jejunu.ac.kr"><img src="https://img.shields.io/badge/Academic-00599C?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/beomgyu-choi-035263320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
