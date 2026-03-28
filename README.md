@@ -1,7 +1,10 @@
 Computer Science @ Jeju National University
 
 ### ✉️ Contact Me
-<a href="mailto:bonggutravel@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="mailto:fredb@stu.jejunu.ac.kr"><img src="https://img.shields.io/badge/Academic-00599C?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/beomgyu-choi-035263320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:bonggutravel@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="mailto:fredb@stu.jejunu.ac.kr"><img src="https://img.shields.io/badge/Academic-663399?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;<a href="https://t.me/본인의_텔레그램_아이디"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;<a href="https://wa.me/821012345678"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<br>
+<a href="https://www.linkedin.com/in/beomgyu-choi-035263320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
 
 ### 💼 Experience
 * Executive Organizer @ LIKELION JNU 14th `2026.02 - Present`
@@ -12,10 +15,10 @@ Computer Science @ Jeju National University
  
 ### 🏆 Honors & Awards
 | Date | Title / Event | Award | Field | Type |
-| :--- | :--- | :---: | :---: | :---: |
-| `2026.02.26` | ICAIIC 2026 | Poster Presentation | NLP, T5 Modeling | Conference | 
-| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Award | NLP, T5 Modeling | Competition | 
-| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | Data Science | Conference | 
+| :--- | :--- | :--- | :--- | :--- |
+| `2026.02.26` | ICAIIC 2026 | 📄 Poster Presentation | NLP, T5 Modeling | Conference | 
+| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Competition | 
+| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conference | 
 | `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Competition |
 
 ### 🖥 Frontend
