@@ -1,6 +1,6 @@
 Computer Science @ Jeju National University
 
-# ✉️ Contact Me
+# ✉️ Contact
 <a href="mailto:bonggutravel@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="mailto:fredb@stu.jejunu.ac.kr"><img src="https://img.shields.io/badge/Academic-663399?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;<a href="https://t.me/uncledrew_sr"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;<a href="#whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;<a href="#discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/beomgyu-choi-035263320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # 🖋️ Blog
