@@ -19,7 +19,7 @@ Computer Science @ Jeju National University
 | Date | Title / Event | Achievement | Field | Type |
 | :--- | :--- | :--- | :--- | :--- |
 | `Feb 26, 2026` | ICAIIC 2026 (Tokyo, Japan) | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
-| `Dec 18, 2025` | 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conf. | 
+| `Dec 18, 2025` | 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, LLM | Conf. | 
 | `Dec  4, 2025` | RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
 | `Aug 19, 2025` | In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
