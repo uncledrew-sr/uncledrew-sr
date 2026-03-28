@@ -1,8 +1,11 @@
 Computer Science @ Jeju National University
 
 ### 💼 Experience
-* **Executive Organizer @ Like Lion JNU** (2026.02 - Present)
+* Executive Organizer @ LIKELION JNU 14th (2026.02 - Present)
     * Managing tech seminars and hackathons for the Jeju National University chapter.
+* Undergraduate Researcher @ Intelligent Computing Lab (2025.03 - 2026.02)
+    * Researching on NLP with T5 models
+    * Implementing AI models and exploring intelligent system architectures.
 
 ### ✉️ Contact Me
 <a href="mailto:bonggutravel@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="mailto:fredb@stu.jejunu.ac.kr"><img src="https://img.shields.io/badge/Academic-00599C?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/beomgyu-choi-035263320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
