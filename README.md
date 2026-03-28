@@ -14,3 +14,13 @@ Computer Science @ Jeju National University
 
 ### 🐋 DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uncledrew-sr&show_icons=true&theme=dark&hide_border=true" alt="Beomgyu's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncledrew-sr&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</div>
+<br>
+
+![Beomgyu's github activity graph](https://github-readme-activity-graph.vercel.app/get-graph?username=본인ID&theme=tokyonight)
