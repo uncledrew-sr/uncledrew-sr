@@ -7,22 +7,22 @@ Computer Science @ Jeju National University
 <a href="https://uncledrew.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=ghost&logoColor=black"></a>&nbsp;
 
 # 💼 Experience
-* Executive Organizer @ LIKELION JNU 14th `2026.02 - Present`
+* Executive Organizer @ LIKELION JNU 14th `Feb 2026 - Present`
     * Managing tech seminars and hackathons for the Jeju National University chapter.
-* Undergraduate Researcher @ Intelligent Computing Lab `2025.03 - 2026.02`
+* Undergraduate Researcher @ Intelligent Computing Lab `Mar 2025 - Feb 2026`
     * Conducted research on NLP and LLM architectures.
-* Sergeant (E-5) / Information Systems Operation @ Republic of Korea Army `2023.10 - 2025.03`
-    * Squad Leader `2024.06 - 2024.12`
+* Sergeant (E-5) / Information Systems Operation @ Republic of Korea Army `Oct 2023 - Mar 2025`
+    * Squad Leader `Jun 2024 - Dec 2024`
     * Served as an Information System Operator (MOS 175.103) at the Battle Training Command.
     * Operated tactical & intelligence simulation systems for high-level command post exercises.
 
 # 🏆 Honors & Awards
 | Date | Title / Event | Achievement | Field | Type |
 | :--- | :--- | :--- | :--- | :--- |
-| `2026.02.26` | ICAIIC 2026 (Tokyo, Japan) | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
-| `2025.12.04` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
-| `2025.11` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conf. | 
-| `2025.08.19` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
+| `February 26, 2026` | ICAIIC 2026 (Tokyo, Japan) | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
+| `December 18, 2025` | 2025 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | ML, NLP | Conf. | 
+| `December 4, 2025` | 2025 RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
+| `August 19, 2025` | 2025 In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
 # 🛠️ Skills
 ### 🖥 Frontend
