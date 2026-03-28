@@ -13,8 +13,8 @@ Computer Science @ Jeju National University
     * Conducted research on NLP and LLM architectures.
 * Sergeant (E-5) / Information Systems Operation @ Republic of Korea Army `Oct 2023 - Mar 2025`
     * Squad Leader `Jun 2024 - Dec 2024`
-    * Served as an Information System Operator (MOS 175.103) at the Battle Training Command.
-    * Operated tactical & intelligence simulation systems for high-level command post exercises.
+    * Served as an Information System Operator (MOS 175.103) at the Battle Command Training Program (BCTP).
+    * Operated Combat Service Support (CSS) simulation systems to support logistics and sustainability for high-level command post exercises.
 
 # 🏆 Honors & Awards
 | Date | Title / Event | Achievement | Field | Type |
