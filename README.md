@@ -38,3 +38,6 @@ Computer Science @ Jeju National University
 
 # 🏙️ My 3D Stats
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+# 🐍 My Contributions
+![snake gif](https://raw.githubusercontent.com/uncledrew-sr/uncledrew-sr/output/github-contribution-grid-snake.svg)
