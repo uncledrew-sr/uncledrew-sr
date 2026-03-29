@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f72585&color_dots=#240046,#3c096c,#5a189a,#7b2cbf,#9d4edd
           
       # 생성된 파일을 output 브랜치에 푸시 (관리하기 편하게 별도 브랜치 사용)
       - name: push github-contribution-grid-snake.svg to the output branch
