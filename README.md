@@ -36,5 +36,5 @@ Computer Science @ Jeju National University
 ### 🐋 DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
-# 🏙️ My 3D Stats
+# 🏙️ Stats
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
