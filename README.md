@@ -38,3 +38,5 @@ Computer Science @ Jeju National University
 
 # 🏙️ Stats
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=uncledrew)](https://solved.ac/sol4071/)
