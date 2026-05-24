@@ -40,14 +40,14 @@ Computer Science @ Jeju National University
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
-### 🧠 AI & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-### ⚙️ System Programming
+### 📟 System Programming
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+### 🧠 AI & Machine Learning
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 ### 🐋 DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
