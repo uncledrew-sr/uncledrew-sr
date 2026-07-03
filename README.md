@@ -9,6 +9,7 @@ Computer Science @ Jeju National University
 # 💼 Experience
 * Executive Organizer @ LIKELION JNU 14th `Feb 2026 - Present`
     * Managing tech seminars and hackathons for the Jeju National University chapter.
+    * [Github](https://github.com/likelion-jejunu)
 * Undergraduate Researcher @ Intelligent Computing Lab `Mar 2025 - Feb 2026`
     * Conducted research on NLP and LLM architectures.
 
@@ -21,10 +22,15 @@ Computer Science @ Jeju National University
 | `Aug 19, 2025` | In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
 # 🚀 Projects
+
 | Date | Title | Description | Link |
 | :--- | :--- | :--- | :--- |
-| `Jun 2026` | TiKi | AI-powered family finance platform for multicultural households | [GitHub](https://github.com/uncledrew-sr/tiki-taka) |
-| `Jun 2026` | DoYouWanna-Trip | Schedule-based travel destination matching service | [GitHub](https://github.com/uncledrew-sr/brissy) |
+| `Jun 2026` | TiKi | AI-powered family finance platform for multicultural households. Parents receive bilingual learning content & conversation scripts from child's spending data. | [GitHub](https://github.com/uncledrew-sr/tiki-taka) |
+| `Jun 2026` | DoYouWanna-Trip | Schedule-based travel destination matching service. Finds gaps in your schedule and matches them to fitting destinations. | [GitHub](https://github.com/uncledrew-sr/brissy) |
+| `Jun 2026` | DOM Agent | Lightweight web automation agent using HTML DOM parsing — no vision model. Runs fully on-device with Gemma-2-2B, achieving ~98% token reduction vs raw HTML. | [GitHub](https://github.com/uncledrew-sr/dom-agent) |
+| `Jun 2026` | ChainVault DApp | Decentralized application with smart contract integration. | [GitHub](https://github.com/uncledrew-sr/ChainVault-Dapp) |
+| `Dec 2025` | Value Calculator | Converts spending amounts into real-life equivalents for intuitive cost perception. | [GitHub](https://github.com/JNU-basic-web-value-calculator) |
+| `Dec 2025` | Speech Disfluency App | Speech disfluency detection and analysis application. | [GitHub](https://github.com/PptPtPt) |
 
 # 🛠️ Skills
 ### 🖥 Frontend
