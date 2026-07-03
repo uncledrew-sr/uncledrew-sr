@@ -20,6 +20,12 @@ Computer Science @ Jeju National University
 | `Dec  4, 2025` | RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
 | `Aug 19, 2025` | In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
+# 🚀 Projects
+| Date | Title | Description | Link |
+| :--- | :--- | :--- | :--- |
+| `Jun 2026` | TiKi | AI-powered family finance platform for multicultural households | [GitHub](https://github.com/uncledrew-sr/tiki-taka) |
+| `Jun 2026` | DoYouWanna-Trip | Schedule-based travel destination matching service | [GitHub](https://github.com/uncledrew-sr/brissy) |
+
 # 🛠️ Skills
 ### 🖥 Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
