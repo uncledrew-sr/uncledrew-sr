@@ -12,16 +12,7 @@ Computer Science @ Jeju National University
 * Undergraduate Researcher @ Intelligent Computing Lab `Mar 2025 - Feb 2026`
     * Conducted research on NLP and LLM architectures.
 
-# 🏆 Honors & Awards
-| Date | Title / Event | Achievement | Field | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| `Feb 26, 2026` | ICAIIC 2026 (Tokyo, Japan) | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
-| `Dec 18, 2025` | 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | CV, Edge AI | Conf. | 
-| `Dec  4, 2025` | RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
-| `Aug 19, 2025` | In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
-
 # 🚀 Projects
-
 | Date | Title | Description | Link |
 | :--- | :--- | :--- | :--- |
 | `Jun 2026` | TiKi | AI-powered family finance platform for multicultural households. Parents receive bilingual learning content & conversation scripts from child's spending data. | [GitHub](https://github.com/uncledrew-sr/tiki-taka) |
@@ -30,6 +21,14 @@ Computer Science @ Jeju National University
 | `Jun 2026` | ChainVault DApp | Decentralized application with smart contract integration. | [GitHub](https://github.com/uncledrew-sr/ChainVault-Dapp) |
 | `Dec 2025` | AI Presentation Coach | AI-powered presentation coaching app. Integrates LLM-based slide & script generation, gaze/posture analysis, and T5-based speech disfluency detection into a unified mobile dashboard. | [GitHub](https://github.com/PptPtPt) |
 | `Dec 2025` | Value Calculator | Converts spending amounts into real-life equivalents for intuitive cost perception. | [GitHub](https://github.com/JNU-basic-web-value-calculator) |
+
+# 🏆 Honors & Awards
+| Date | Title / Event | Achievement | Field | Type |
+| :--- | :--- | :--- | :--- | :--- |
+| `Feb 26, 2026` | ICAIIC 2026 (Tokyo, Japan) | 📄 Poster Presentation | NLP, T5 Modeling | Conf. | 
+| `Dec 18, 2025` | 한국데이터사이언스학회 동계종합학술대회 | 🎖️ Honorable Mention | CV, Edge AI | Conf. | 
+| `Dec  4, 2025` | RISE Capstone Design Result-Presentation | 🥈 Excellence Prize | NLP, T5 Modeling | Comp. | 
+| `Aug 19, 2025` | In-Jeju Challenge | 🥇 Grand Prize | Infra, BE | Comp. |
 
 # 🛠️ Skills
 ### 🖥 Frontend
