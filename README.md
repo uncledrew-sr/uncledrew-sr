@@ -7,9 +7,8 @@ Computer Science @ Jeju National University
 <a href="https://uncledrew.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=ghost&logoColor=black"></a>&nbsp;
 
 # 💼 Experience
-* Executive Organizer @ LIKELION JNU 14th `Feb 2026 - Present`
+* Executive Organizer @ [LIKELION JNU 14th](https://github.com/likelion-jejunu) `Feb 2026 - Present`
     * Managing tech seminars and hackathons for the Jeju National University chapter.
-    * [Github](https://github.com/likelion-jejunu)
 * Undergraduate Researcher @ Intelligent Computing Lab `Mar 2025 - Feb 2026`
     * Conducted research on NLP and LLM architectures.
 
