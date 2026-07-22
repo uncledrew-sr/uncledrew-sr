@@ -15,7 +15,6 @@ Computer Science @ Jeju National University
 # 🚀 Projects
 | Date | Title | Description | Link |
 | :--- | :--- | :--- | :--- |
-| `Jun 2026` | TiKi | AI-powered family finance platform for multicultural households. Parents receive bilingual learning content & conversation scripts from child's spending data. | [GitHub](https://github.com/uncledrew-sr/tiki-taka) |
 | `Jun 2026` | DOM Agent | Lightweight web automation agent using HTML DOM parsing — no vision model. Runs fully on-device with Gemma-2-2B, achieving ~98% token reduction vs raw HTML. | [GitHub](https://github.com/uncledrew-sr/dom-agent) |
 | `Jun 2026` | DoYouWanna-Trip | Schedule-based travel destination matching service. Finds gaps in your schedule and matches them to fitting destinations. | [GitHub](https://github.com/uncledrew-sr/brissy) |
 | `Jun 2026` | ChainVault DApp | Decentralized application with smart contract integration. | [GitHub](https://github.com/uncledrew-sr/ChainVault-Dapp) |
